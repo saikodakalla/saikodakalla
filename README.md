@@ -1,6 +1,8 @@
 # 💫 About Me:
 I am a first year Computer Science at the University of Waterloo in Waterloo, Ontario. In my free time, I enjoy learning about all things full-stack software development related. I am currently self-studying DSA, React, TypeScript, and plan to expand into lower level programming.
 
+My best project to date is MonkeyRefresh, which is in my pinned repositories. In MonkeyRefresh, I using React, Node.js, Render, and JavaScript, I created additional features and a global leaderboard for MonkeyType, a popular typing game. Check it out!
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-kodakalla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sskodaka@uwaterloo.ca) 
