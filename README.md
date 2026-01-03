@@ -1,7 +1,7 @@
 # 💻 About Me:
 I am a first year Computer Science at the University of Waterloo in Waterloo, Ontario. In my free time, I enjoy learning about all things full-stack software development related. I am currently self-studying DSA, React, TypeScript, and aim to expand into lower level programming in my 2nd semester through C programming. 
 
-My best project to date is MonkeyRefresh, which is in my pinned repositories. In MonkeyRefresh, I using React, Node.js, Render, and JavaScript, I created additional features and a global leaderboard for MonkeyType, a popular typing game. Check it out!
+My most notable project is MonkeyRefresh, which is in my pinned repositories. In MonkeyRefresh, I created additional features and a global leaderboard for MonkeyType, a popular typing game. My tech stack for this project was React, Node.js, Render, JavaScript and Figma. Within 24 hours, I amassed over 1,000+ user plays, Check it out! https://chromewebstore.google.com/detail/monkeytype-auto-refresh-+/ggdlhdmokcneigpfghogaofjmnikdpan?authuser=0&hl=en 
 
 
 ## 🌐 Socials:
