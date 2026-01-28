@@ -1,5 +1,5 @@
 # 💻 About Me:
-I am a first year Computer Science at the University of Waterloo in Waterloo, Ontario. In my free time, I enjoy learning about all things full-stack software development related. I am currently self-studying DSA, React, TypeScript, and aim to expand into lower level programming in my 2nd semester through C programming. 
+I am a first year Computer Science at the University of Waterloo in Waterloo, Ontario. In my free time, I enjoy learning about all things full-stack software development related. I am currently self-studying DSA, React, TypeScript, and am currently expanding into lower level programming through C-lang. 
 
 My most notable project is MonkeyRefresh, which is in my pinned repositories. In MonkeyRefresh, I created additional features including a daily global run reset counter for MonkeyType, a popular typing game. My tech stack for this project was React, Node.js, Render, JavaScript and Figma. Within 24 hours, I amassed over 800+ user plays, check it out! https://tinyurl.com/saikodakalla.
 
