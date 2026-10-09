@@ -1,11 +1,6 @@
 # 💻 About Me:
 I am a Computer Science at the University of Waterloo in Waterloo, Ontario. In my free time, I enjoy learning about all things full-stack software development related. I am currently self-studying DSA, React, TypeScript, and am currently expanding into lower level programming through C-lang. 
 
-My most notable project is MonkeyRefresh, which is in my pinned repositories. In MonkeyRefresh, I created additional features including a daily global run reset counter for MonkeyType, a popular typing game. My tech stack for this project was React, Node.js, Render, JavaScript and Figma. Within 24 hours, I amassed over 800+ user plays, check it out! https://tinyurl.com/saikodakalla.
-
-I also publicly document all my LeetCode solutions in a pinned repository to track my progress in DSA. Feel free to reach out if you have a more optimal solution to any problem I've solved.
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-kodakalla) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sskodaka@uwaterloo.ca) 
 
